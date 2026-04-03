@@ -19,10 +19,11 @@ redirect_from:
 
 ## About Me
 
-I'm a Computer Science student at the University of Houston with interests in building practical software and developing strong foundations in systems, data, and web development. I'm currently expanding my experience through coursework and projects, and I'm actively looking for internship and entry-level opportunities.
+I'm a Computer Science student at the University of Houston with a minor in Mathematics, passionate about machine learning, data science, and AI. I've worked as a Research Assistant benchmarking scientific data compression algorithms on HPC-scale datasets, and built projects spanning deep learning pipelines, network intrusion detection, and real-time data systems. I'm actively looking for internship and entry-level opportunities in data science and AI.
 
 ## Skills
 
-- **Programming:** C/C++, Python, Java, JavaScript
-- **Frameworks:** React, Pandas, Express.js, Next.js
-- **Tools:** Git/GitHub, Linux, SQL
+- **Languages:** Java, Python, R, SQL, C, C++, JavaScript, HTML/CSS
+- **Frameworks:** Node.js, React, Django
+- **Libraries:** Pandas, NumPy, Matplotlib, seaborn, PyTorch, scikit-learn, Scapy, Flask, JavaFX, JUnit
+- **Tools:** Git/GitHub, Linux
